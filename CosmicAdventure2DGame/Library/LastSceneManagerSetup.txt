@@ -1,9 +1,5 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/Scene/Level9.unity
-=======
 - path: Assets/Level1.unity
->>>>>>> unity-quang
   isLoaded: 1
   isActive: 1
   isSubScene: 0
