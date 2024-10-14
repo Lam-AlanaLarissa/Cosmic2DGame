@@ -1,6 +1,11 @@
 {
   "dependencies": {
+<<<<<<< HEAD
     "com.unity.2d.sprite": "file:D:/Unity/2022.3.45f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.2d.sprite",
+=======
+    "com.unity.2d.sprite": "1.0.0",
+    "com.unity.feature.2d": "2.0.1",
+>>>>>>> unity-quang
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
