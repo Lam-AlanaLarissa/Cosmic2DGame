@@ -17,7 +17,11 @@ MonoBehaviour:
     x: 0
     y: 43.2
     width: 1536
+<<<<<<< HEAD
     height: 772.8
+=======
+    height: 820.8
+>>>>>>> unity-quang
   m_ShowMode: 4
   m_Title: Inspector
   m_RootView: {fileID: 2}
@@ -45,7 +49,11 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 1536
+<<<<<<< HEAD
     height: 772.8
+=======
+    height: 820.8
+>>>>>>> unity-quang
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_UseTopView: 1
@@ -90,7 +98,11 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 752.8
+=======
+    y: 800.8
+>>>>>>> unity-quang
     width: 1536
     height: 20
   m_MinSize: {x: 0, y: 0}
@@ -115,7 +127,11 @@ MonoBehaviour:
     x: 0
     y: 30
     width: 1536
+<<<<<<< HEAD
     height: 722.8
+=======
+    height: 770.8
+>>>>>>> unity-quang
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
@@ -141,7 +157,11 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 1060.8
+<<<<<<< HEAD
     height: 722.8
+=======
+    height: 770.8
+>>>>>>> unity-quang
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
@@ -167,7 +187,11 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 1060.8
+<<<<<<< HEAD
     height: 420.8
+=======
+    height: 448.8
+>>>>>>> unity-quang
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
@@ -191,9 +215,15 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 260.8
+<<<<<<< HEAD
     height: 420.8
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
+=======
+    height: 448.8
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+>>>>>>> unity-quang
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -209,7 +239,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: SceneView
+  m_Name: GameView
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
@@ -217,16 +247,20 @@ MonoBehaviour:
     x: 260.8
     y: 0
     width: 800.00006
+<<<<<<< HEAD
     height: 420.8
+=======
+    height: 448.8
+>>>>>>> unity-quang
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
-  m_ActualView: {fileID: 14}
+  m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 14}
   - {fileID: 15}
   - {fileID: 16}
-  m_Selected: 0
-  m_LastSelected: 1
+  m_Selected: 1
+  m_LastSelected: 0
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -243,12 +277,21 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 420.8
     width: 1060.8
     height: 302
   m_MinSize: {x: 231, y: 271}
   m_MaxSize: {x: 10001, y: 10021}
   m_ActualView: {fileID: 17}
+=======
+    y: 448.8
+    width: 1060.8
+    height: 322
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 18}
+>>>>>>> unity-quang
   m_Panes:
   - {fileID: 17}
   - {fileID: 12}
@@ -274,7 +317,11 @@ MonoBehaviour:
     x: 1060.8
     y: 0
     width: 475.19995
+<<<<<<< HEAD
     height: 722.8
+=======
+    height: 770.8
+>>>>>>> unity-quang
   m_MinSize: {x: 275, y: 50}
   m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 20}
@@ -426,7 +473,11 @@ MonoBehaviour:
     x: 0
     y: 73.6
     width: 259.8
+<<<<<<< HEAD
     height: 399.8
+=======
+    height: 427.8
+>>>>>>> unity-quang
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -439,10 +490,17 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
+<<<<<<< HEAD
       scrollPos: {x: 0, y: 96}
       m_SelectedIDs: f44f0000
       m_LastClickedID: 20468
       m_ExpandedIDs: 18fbffff144e0000204e0000644e0000d04e0000fe4f00003e50000080500000de500000
+=======
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 1efbffff
+>>>>>>> unity-quang
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: Round1
@@ -489,7 +547,11 @@ MonoBehaviour:
     x: 260.80002
     y: 73.6
     width: 798.00006
+<<<<<<< HEAD
     height: 399.8
+=======
+    height: 427.8
+>>>>>>> unity-quang
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -937,7 +999,11 @@ MonoBehaviour:
     x: 260.80002
     y: 73.6
     width: 798.00006
+<<<<<<< HEAD
     height: 399.8
+=======
+    height: 427.8
+>>>>>>> unity-quang
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -954,7 +1020,11 @@ MonoBehaviour:
   m_ShowGizmos: 0
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
+<<<<<<< HEAD
   m_TargetSize: {x: 673, y: 378.8}
+=======
+  m_TargetSize: {x: 723, y: 406.8}
+>>>>>>> unity-quang
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
   m_RenderIMGUI: 1
@@ -969,10 +1039,17 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
+<<<<<<< HEAD
     m_HBaseRangeMin: -269.2
     m_HBaseRangeMax: 269.2
     m_VBaseRangeMin: -151.52
     m_VBaseRangeMax: 151.52
+=======
+    m_HBaseRangeMin: -289.2
+    m_HBaseRangeMax: 289.2
+    m_VBaseRangeMin: -162.72
+    m_VBaseRangeMax: 162.72
+>>>>>>> unity-quang
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -991,9 +1068,15 @@ MonoBehaviour:
       x: 0
       y: 21
       width: 798.00006
+<<<<<<< HEAD
       height: 378.8
     m_Scale: {x: 1.25, y: 1.25}
     m_Translation: {x: 399, y: 189.4}
+=======
+      height: 406.8
+    m_Scale: {x: 1.25, y: 1.25}
+    m_Translation: {x: 399, y: 203.4}
+>>>>>>> unity-quang
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -1001,12 +1084,21 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
       x: -319.2
+<<<<<<< HEAD
       y: -151.51999
       width: 638.4
       height: 303.03998
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 997.50006, y: 499.75}
+=======
+      y: -162.72
+      width: 638.4
+      height: 325.44
+    m_MinimalGUI: 1
+  m_defaultScale: 1
+  m_LastWindowPixelSize: {x: 997.50006, y: 534.75}
+>>>>>>> unity-quang
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
@@ -1105,10 +1197,17 @@ MonoBehaviour:
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
+<<<<<<< HEAD
     scrollPos: {x: 0, y: 79}
     m_SelectedIDs: ae510000
     m_LastClickedID: 20910
     m_ExpandedIDs: 00000000ae510000b0510000b2510000b4510000b6510000b8510000ba510000cc510000085200001052000000ca9a3bffffff7f
+=======
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: c4510000
+    m_LastClickedID: 20932
+    m_ExpandedIDs: 0000000096510000985100009a5100009c5100009e510000a0510000a2510000a4510000
+>>>>>>> unity-quang
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1136,7 +1235,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000ae510000b0510000b2510000b4510000b6510000b8510000ba510000
+=======
+    m_ExpandedIDs: 0000000096510000985100009a5100009c5100009e510000a0510000a2510000a4510000
+>>>>>>> unity-quang
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1213,9 +1316,15 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 494.4
     width: 1059.8
     height: 281
+=======
+    y: 522.4
+    width: 1059.8
+    height: 301
+>>>>>>> unity-quang
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -1286,7 +1395,11 @@ MonoBehaviour:
     x: 1060.8
     y: 73.6
     width: 474.19995
+<<<<<<< HEAD
     height: 701.8
+=======
+    height: 749.8
+>>>>>>> unity-quang
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
