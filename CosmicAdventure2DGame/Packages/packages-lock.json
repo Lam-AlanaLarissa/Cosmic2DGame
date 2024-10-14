@@ -1,13 +1,6 @@
 {
   "dependencies": {
-<<<<<<< HEAD
-    "com.unity.2d.sprite": {
-      "version": "file:D:/Unity/2022.3.45f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.2d.sprite",
-      "depth": 0,
-      "source": "local",
-      "dependencies": {}
-    },
-=======
+
     "com.unity.2d.animation": {
       "version": "9.1.1",
       "depth": 1,
@@ -171,7 +164,7 @@
         "com.unity.modules.imgui": "1.0.0"
       }
     },
->>>>>>> unity-quang
+
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
