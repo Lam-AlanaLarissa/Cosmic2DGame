@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Terrain
   layers:
   - Default
   - TransparentFX
@@ -11,12 +12,12 @@ TagManager:
   - 
   - Water
   - UI
+  - Ground
+  - Wall
+  - Celling
   - 
   - 
-  - 
-  - 
-  - 
-  - 
+  - Saw
   - 
   - 
   - 
@@ -38,6 +39,18 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 3361885937
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 1021473417
+    locked: 0
+  - name: Terrain
+    uniqueID: 40761261
+    locked: 0
+  - name: Foreground
+    uniqueID: 3253644837
     locked: 0
