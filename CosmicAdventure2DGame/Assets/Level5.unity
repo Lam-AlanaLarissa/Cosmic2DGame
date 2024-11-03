@@ -652,6 +652,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7344881944673151175, guid: d2c05b25eb62844409676ce1157b2c99, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7344881944673151175, guid: d2c05b25eb62844409676ce1157b2c99, type: 3}
       propertyPath: attackCooldown
       value: 5
       objectReference: {fileID: 0}
