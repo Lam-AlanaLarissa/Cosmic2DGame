@@ -1,6 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Diagnostics;
 using UnityEngine;
+
 
 public class PlayerAttack : MonoBehaviour
 {
@@ -10,9 +12,10 @@ public class PlayerAttack : MonoBehaviour
     private Animator anim;
     private PlayerMovement playerMovement;
     private float cooldownTimer = Mathf.Infinity;
-
+    AudioManager audioManager;
     private void Awake()
     {
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
         anim = GetComponent<Animator>();
         playerMovement = GetComponent<PlayerMovement>();
     }
@@ -24,9 +27,9 @@ public class PlayerAttack : MonoBehaviour
     }
     private void Attack()
     {
+        audioManager.PlaySFX(audioManager.shooting);
         anim.SetTrigger("attack");
         cooldownTimer = 0;
-
         fireballs[FindFireball()].transform.position = firePoint.position;
         fireballs[FindFireball()].GetComponent<Projectile>().SetDirection(Mathf.Sign(transform.localScale.x));
     }

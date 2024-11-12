@@ -62,7 +62,7 @@ public class Spikehead : EnemyDamage
         directions[3] = -transform.up * range;
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
+    private new void OnTriggerEnter2D(Collider2D collision)
     {
         base.OnTriggerEnter2D(collision);
         Stop(); 

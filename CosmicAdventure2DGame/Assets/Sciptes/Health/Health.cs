@@ -1,7 +1,7 @@
 
 using UnityEngine;
 using System.Collections;
-
+using UnityEngine.SceneManagement;
 
 public class Health : MonoBehaviour
 {
@@ -18,7 +18,7 @@ public class Health : MonoBehaviour
 
     [Header("Components")]
     [SerializeField] private Behaviour[] components;
-
+    
     private void Awake()
     {
         currentHealth = startingHealth;
@@ -33,15 +33,18 @@ public class Health : MonoBehaviour
         {
             anim.SetTrigger("hurt");
             StartCoroutine(Invunerability());
+            
         }
         else
         {
-            if (!dead)
+            if (!dead && currentHealth <= 0)
             {
                 anim.SetTrigger("die");
                 foreach (Behaviour component in components)
                     component.enabled = false;
                 dead = true;
+                
+                SceneManager.LoadScene("GameOverScreen");
             }
         }
 
